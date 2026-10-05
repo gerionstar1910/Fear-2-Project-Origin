@@ -217,4 +217,4 @@ FEAR 2 Project Origin is available as a complete free version, offering all feat
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-05 00:41:01 UTC
+**Last updated:** 2026-10-05 06:48:22 UTC
